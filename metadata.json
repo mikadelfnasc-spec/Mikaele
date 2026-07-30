@@ -1,0 +1,6 @@
+{
+  "name": "Facilita+",
+  "description": "Plataforma de estudos moderna para vestibulares e ENEM com simulados, flashcards, métricas e Professor IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
